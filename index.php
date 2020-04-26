@@ -1,131 +1,179 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Gustavo Sanchez</title>
+  <title>Gustavo Sánchez</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-  body {
-      font: 20px Montserrat, sans-serif;
-      line-height: 1.8;
-      color: #f5f6f7;
-      background-image: url("img/banner.jpg");
-  }
-  p {font-size: 16px;}
-  .margin {margin-bottom: 45px;}
-  .bg-1 { 
-      /*background-color: #1abc9c; /* Green */*/
-      color: #ffffff;
-  }
-  .bg-2 { 
-      background-color: #474e5d; /* Dark Blue */
-      color: #ffffff;
-      margin-top: -50px;
-  }
-  .bg-3 { 
-      background-color: #ffffff; /* White */
-      color: #555555;
-  }
-  .bg-4 { 
-      background-color: #2f2f2f; /* Black Gray */
-      color: #fff;
-  }
-  .container-fluid {
-      padding-top: 70px;
-      padding-bottom: 70px;
-  }
-  .navbar {
-      padding-top: 0px;
-      padding-bottom: 0px;
-      border: 0;
-      border-radius: 0;
-      margin-bottom: 0;
-      font-size: 12px;
-      letter-spacing: 5px;
-  }
-  .navbar-nav  li a:hover {
-      color: #1abc9c !important;
-  }
-  </style>
+  <link rel="stylesheet" href="css/main.css">
 </head>
-<body>
 
-<!-- Navbar -->
+
+<body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
+  <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Gustavo Sanchez</a>
+      <a class="navbar-brand" href="#myPage">Gustavo Sánchez</a>
+      <link rel="icon" type="image/x-icon" href="favicon.ico" />
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#portfolio">PORTFOLIO</a></li>
-        <li>
-        <button type="button" class="btn btn-default btn-sm" style="margin-top: 7px;">
-        <span class="glyphicon glyphicon-shopping-cart">
-        </span> STORE
-        </button>
-        </li>
-        <li><a href="#">CONTACT</a></li>
+        <li><a href="/gus/">ABOUT</a></li>
+        <li><a href="#port">PORTFOLIO</a></li>
+        <li><a href="#googleMap">BLOG</a></li>
+        <li><a href="#contact">CONTACT</a></li>
       </ul>
     </div>
   </div>
 </nav>
 
-<!-- First Container -->
-<div class="container-fluid bg-1 text-center">
-  <h3 class="margin">Who Am I?</h3>
-  <img src="img/me.png" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="350" height="350">
-  <h3>Junior Web Developer</h3>
-  <h3>Freelancer</h3>
-  <h3>Student</h3>
+
+
+
+
+
+<!-- Main Container -->
+<div class="container text-justify" style="margin-top: 10px;"> 
+
+      <!-- Photo -->
+      <img src="img/me.jfif" class="img-circle mx-auto d-block" alt="me" style="padding-top: 10px;"><br><br>
+
+
+
+      <!-- About Me -->
+      <b><u>About Me</u></b><br><br>          
+      <p>Born in Casas del Castañar (Spain) on the 5th of February 1998, 
+      Gustavo studied Software Engineering in Sheffield Hallam University (Sheffield, United Kingdom) from 2016 to 2020.
+      In 2019, Gustavo spent a year as a exchange student in Reutlingen University (Reutlingen, Germany) and undertook a 6-month internship with Daimler AG (Mercedes-Benz Cars).  <br></p><br>
+       
+       <!-- Portfolio -->
+      <b><u>Portfolio</u></b><br>          
+
+        <div class="row">
+              <div class="col-sm-6">
+                <p class="text-center"><strong></strong></p><br>
+                <a href="#demo" data-toggle="collapse">
+                  <img src="img/lalancha1.png"  alt="Random Name" width="474.5" height="232.75">
+                </a>
+                <div id="demo" class="collapse">
+                  <p>Cerezos en flor</p>
+                </div>
+              </div>
+
+              <div class="col-sm-6">
+                <p class="text-center"><strong></strong></p><br>
+                <a href="#demo2" data-toggle="collapse">
+                  <img src="img/lalancha2.png"  alt="Random Name" width="474.5" height="232.75">
+                </a>
+                <div id="demo2" class="collapse">
+                  <p>Garganta de los Infiernos</p>
+                </div>
+              </div>
+
+      </div>
+
+      
+      <!-- Blog -->
+      </b><br><b><u>Blog</u></b><br>          
+      <div class="row">
+            <div class="col-sm-4">
+              <p class="text-center"><strong></strong></p><br>
+              <a href="#demo6" data-toggle="collapse">
+                <img src="img/flor2.jpg" alt="Random Name" width="949" height="465.5">
+              </a>
+              <div id="demo6" class="collapse">
+                <p>Cerezo en Flor</p>
+              </div>
+            </div>
+
+            <div class="col-sm-4">
+              <p class="text-center"><strong></strong></p><br>
+              <a href="#demo7" data-toggle="collapse">
+                <img src="img/caozo.jpg" alt="Random Name" width="255" height="255">
+              </a>
+              <div id="demo7" class="collapse">
+                <p>Garganta El Caozo</p>
+              </div>
+            </div>
+
+            <div class="col-sm-4">
+              <p class="text-center"><strong></strong></p><br>
+              <a href="#demo8" data-toggle="collapse">
+                <img src="img/iglesia.jpg" alt="Random Name" width="255" height="255">
+              </a>
+              <div id="demo8" class="collapse">
+                <p>Iglesia de El Torno</p>
+              </div>
+            </div>
+      </div>
+
 </div>
 
-<!-- Second Container -->
-<div id="about" class="container-fluid bg-2 text-center">
-  <h3 class="margin">About me</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-  <a href="https://docs.google.com/document/d/1ak2qqTQoR6_IXNMwcA4_7hi1ZVcyZyS4BPFBrMY-rn0/edit?usp=sharing" target="_blank" class="btn btn-default btn-lg">
-    <span class="glyphicon glyphicon-new-window"></span> Open CV 
-  </a>
-</div>
 
-<!-- Third Container (Grid) -->
-<div id="portfolio" class="container-fluid bg-3 text-center">    
-  <h3 class="margin">Portfolio</h3><br>
-  <div class="row">
-    <div class="col-sm-4">
-      <h4 class="margin">Events listing website</h4><br>
-      <p>Built a Chess Society sample website.
-        Used Bootstrap, Javascript (JQuery, Google Maps API), PHP, AJAX, a Content Management System built from square one and a MySQL backend database.</p>
-      <a href="https://homepages.shu.ac.uk/~b6025590/WAD/index.php" target="_blank"><img src="img/hallamChess.png" class="img-responsive margin" style="width:100%" alt="Image"></a>
-    </div>
-    <div class="col-sm-4"> 
-      <h4 class="margin">Events listing website</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <a href="https://homepages.shu.ac.uk/~b6025590/WAD/index.php" target="_blank"><img src="img/hallamChess.png" class="img-responsive margin" style="width:100%" alt="Image"></a>
-    </div>
-    <div class="col-sm-4"> 
-      <h4 class="margin">Events listing website</h4><br>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-      <a href="https://homepages.shu.ac.uk/~b6025590/WAD/index.php" target="_blank"><img src="img/hallamChess.png" class="img-responsive margin" style="width:100%" alt="Image"></a>
-    </div>
+
+
+
+<!-- Container (Contact Section) -->
+<div id="contact" class="container">
+
+  <h2 class="text-center">Contact</h2>
+  
+  <div class="text-center">
+      <p><span class="glyphicon glyphicon-map-marker"></span></p>
+      <p><span class="glyphicon glyphicon-phone"></span> Phone Number: +34 693776592</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> Email: gsanchezcollado@gmail.com</p>
   </div>
-</div>
 
-<!-- Footer -->
-<footer class="container-fluid bg-4 text-center">
-  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com">www.w3schools.com</a></p> 
-</footer>
+</div> 
+
+<!-- Footer
+<footer class="text-center">
+  <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a><br><br>
+  <p>Web Design: Gustavo Sanchez - <a href="mailto:gsanchezcollado@gmail.com">
+              gsanchezcollado@gmail.com</a></p> 
+</footer> -->
+
+<script>
+$(document).ready(function(){
+  // Initialize Tooltip
+  $('[data-toggle="tooltip"]').tooltip(); 
+  
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+})
+</script>
 
 </body>
 </html>
