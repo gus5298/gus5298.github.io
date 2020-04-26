@@ -27,9 +27,9 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/gus/">ABOUT</a></li>
-        <li><a href="#port">PORTFOLIO</a></li>
-        <li><a href="#googleMap">BLOG</a></li>
+        <li><a href="/">ABOUT</a></li>
+        <!-- <li><a href="#port">PORTFOLIO</a></li> -->
+        <li><a href="/blog.html">BLOG</a></li>
         <li><a href="#contact">CONTACT</a></li>
       </ul>
     </div>
