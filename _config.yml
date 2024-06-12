@@ -22,11 +22,11 @@ repository               : "gus5298.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Gustavo Sánchez"
+  name             : #"Gustavo Sánchez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Karlsruhe Institute of Technology (KIT)"
   location         : "Germany"
-  employer         : "Karlsruhe Institute of Technology (KIT)"
+  employer         : #"Karlsruhe Institute of Technology (KIT)"
   uri              : # URL
   email            : "sanchez@kit.edu" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # gustavo-sanchez98
+  linkedin         : "gustavo-sanchez98"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
