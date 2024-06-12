@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I am a researcher currently pursuing a PhD at Karlsruhe Institute of Technology in Germany, supervised by Prof. Veit Hagenmeyer. 
 
-My Background
+My Research
 ======
 My research interest lies in the area of offensive security, with a focus on machine learning methods and within the context of critical infrastructure.
 
