@@ -11,41 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc Cybersecurity and Artificial Intelligence, The University of Sheffield (UK), 2021
+* BEng (Hons) Software Engineering, Sheffield Hallam University (UK) + Reutlingen University (Germany, Erasmus +), 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2022 - Current: Scientific Researcher
+  * Karlsruhe Institute of Technology (Karlsruhe, Germany)
+  * Duties includes: Investigating adversarial attacks against learning-based methods, within the context of critical infrastructure such as smart grids.
+  * Supervisor: Prof. Veit Hagenmeyer
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  Mar 2021 - May 2021: Threat Intelligence Researcher
+  * IMDEA Software Institute (Madrid, Spain - Remote)
+  * Duties included: Part-time internship at the IMDEA Software Institute to work on the development of a Cyber Threat Intelligence platform.
+  * Supervisor: Prof. Juan Caballero
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -53,12 +38,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TCP member for CyberHunt 2024 (co-located with IEEE BigData 2024)
