@@ -21,22 +21,19 @@ Work experience
   * Duties includes: Investigating adversarial attacks against learning-based methods, within the context of critical infrastructure such as smart grids.
   * Supervisor: Prof. Veit Hagenmeyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-*  Mar 2021 - May 2021: Threat Intelligence Researcher
+* Mar 2021 - May 2021: Threat Intelligence Researcher
   * IMDEA Software Institute (Madrid, Spain - Remote)
   * Duties included: Part-time internship at the IMDEA Software Institute to work on the development of a Cyber Threat Intelligence platform.
   * Supervisor: Prof. Juan Caballero
-  
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+* Jul 2020 - Aug 2020: Front-End Software Developer
+  * Grobotic Systems (Sheffield, UK - Remote)
+  * Duties included: Summer Internship. Development of a dashboard for graphical representation of environmental parameters with Angular and Open Source libraries.
+ 
+* Mar 2019 - Aug 2019: Software Engineer
+  * Daimler AG (Stuttgart, Germany)
+  * Duties include: 6-months internship at Mercedes-Benz Cars. R&D department, area: Connected Car (Location-Based Services). Agile Development of prototypes with Node.js/PHP.
+Development and implementation of a Monitoring Tool for distributed applications.
   
   
 Service and leadership
