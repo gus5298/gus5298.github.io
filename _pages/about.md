@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Gustavo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,12 +8,10 @@ redirect_from:
 ---
 ** under construction.
 
-Hi! I am a researcher currently pursuing a PhD at Karlsruhe Institute of Technology in Germany, supervised by Prof. Veit Hagenmeyer. 
+Hi! I am a researcher currently pursuing a PhD at Karlsruhe Institute of Technology (KIT) in Germany, supervised by Prof. Veit Hagenmeyer. Before joining KITm I was a research intern at the IMDEA Software Institute in Spain. I received a Bachelor’s in Software Engineering from Sheffield Hallam University (UK), and in 2021 completed a Master’s of Science in Cyber Security and Artificial Intelligence at The University of Sheffield (UK). My research interest lies in the area of offensive security, with a focus on AI methods and within the context of critical infrastructure.
 
-My Research
+News
 ======
-My research interest lies in the area of offensive security, with a focus on AI methods and within the context of critical infrastructure.
 
-My Background
-======
-I received a Bachelor's in Software Engineering from Sheffield Hallam University (UK), and in 2021 completed a Master's of Science in Cyber Security and Artificial Intelligence at The University of Sheffield (UK). I completed a research internship at the IMDEA Software Institute (Spain) under the supervision of Prof. Juan Caballero. 
+* Gustavo is to serve as a TCP member for CyberHunt 2024 (co-located with IEEE BigData 2024) (Sept. 2024)
+* Our paper **Attacking Learning-based Models in Smart Grids: Current Challenges and New Frontiers** is accepted by EnergySP 2024 (co-located with ACM e-Energy 2024). We identify unexplored areas and potential improvements in current methodologies by categorizing attacks, and assessing their ability to be reproduced. Additionally, we propose the integration of explainable artificial intelligence techniques into adversarial models. (Apr. 2024)
