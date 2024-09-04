@@ -21,7 +21,7 @@ repository               : "gus5298.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/gustavo.jpg"
+  avatar           : "gustavo.jpg"
   name             : #"Gustavo Sánchez"
   pronouns         : # example: "she/her"  
   bio              : #"Karlsruhe Institute of Technology (KIT)"
