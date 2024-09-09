@@ -38,4 +38,4 @@ Development and implementation of a Monitoring Tool for distributed applications
   
 Service and leadership
 ======
-* TCP member for CyberHunt 2024 (co-located with IEEE BigData 2024)
+* TPC member for CyberHunt 2024 (co-located with IEEE BigData 2024)
