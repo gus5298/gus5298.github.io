@@ -38,4 +38,5 @@ Development and implementation of a Monitoring Tool for distributed applications
   
 Service and leadership
 ======
-* TPC member for CyberHunt 2024 (co-located with IEEE BigData 2024)
+* TPC member for the [7th Annual Workshop on Cyber Threat Intelligence and Hunting](https://cyberhunt2024.cyberhunt.no/) (co-located with IEEE BigData 2024)
+* TPC member for the [2nd Workshop on Recent Advances in Resilient and Trustworthy Machine Learning](https://artman-workshop.gitlab.io/) (co-located with ACSAC 2024)
