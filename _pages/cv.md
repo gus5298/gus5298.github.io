@@ -18,12 +18,12 @@ Work experience
 ======
 * March 2022 - Current: Scientific Researcher
   * Karlsruhe Institute of Technology (Karlsruhe, Germany)
-  * Duties includes: Investigating adversarial attacks against learning-based methods, within the context of critical infrastructure such as smart grids.
+  * Duties: Investigating adversarial attacks against learning-based methods, within the context of critical infrastructure such as smart grids.
   * Supervisor: Prof. Veit Hagenmeyer
 
 * Mar 2021 - May 2021: Threat Intelligence Researcher
   * IMDEA Software Institute (Madrid, Spain - Remote)
-  * Duties included: Part-time internship at the IMDEA Software Institute to work on the development of a Cyber Threat Intelligence platform.
+  * Duties: Part-time internship at the IMDEA Software Institute to work on the development of a Cyber Threat Intelligence platform.
   * Supervisor: Prof. Juan Caballero
 
 * Jul 2020 - Aug 2020: Front-End Software Developer
@@ -32,7 +32,7 @@ Work experience
  
 * Mar 2019 - Aug 2019: Software Engineer
   * Daimler AG (Stuttgart, Germany)
-  * Duties include: 6-months internship at Mercedes-Benz Cars. R&D department, area: Connected Car (Location-Based Services). Agile Development of prototypes with Node.js/PHP.
+  * Duties: 6-months internship at Mercedes-Benz Cars. R&D department, area: Connected Car (Location-Based Services). Agile Development of prototypes with Node.js/PHP.
 Development and implementation of a Monitoring Tool for distributed applications.
   
   
