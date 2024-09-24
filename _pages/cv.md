@@ -28,7 +28,7 @@ Work experience
 
 * Jul 2020 - Aug 2020: Front-End Software Developer
   * Grobotic Systems (Sheffield, UK - Remote)
-  * Duties included: Summer Internship. Development of a dashboard for graphical representation of environmental parameters with Angular and Open Source libraries.
+  * Duties: Summer Internship. Development of a dashboard for graphical representation of environmental parameters with Angular and Open Source libraries.
  
 * Mar 2019 - Aug 2019: Software Engineer
   * Daimler AG (Stuttgart, Germany)
