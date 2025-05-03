@@ -11,7 +11,8 @@ Hi! I am a researcher currently pursuing a PhD at [Karlsruhe Institute of Techno
 
 News
 ======
-* I will serve as a TPC member for the [International Workshop on Secure, Trustworthy, and Robust AI (STRAI)](https://2025.ares-conference.eu/program/strai/) (co-located with ARES 2025). (Apr. 2025) 🆕
+* Our papers **Insights and Lessons Learned from a Realistic Smart Grid Testbed for Cybersecurity Research** and **Attacks on the Siemens S7 Protocol Using an Industrial Control System Testbed** are accepted by EnergySP 2025 (co-located with ACM e-Energy 2025), and our work **Masquerading IEC 61850 GOOSE Protocol: Cyber‐Physical Experiments and Detection** is acepted as a poster in the main conference. (May 2025) 🆕
+* I will serve as a TPC member for the [International Workshop on Secure, Trustworthy, and Robust AI (STRAI)](https://2025.ares-conference.eu/program/strai/) (co-located with ARES 2025). (Apr. 2025) 
 * I have been selected to be part of the [USENIX Security 2025 Artifact Evaluation Committee (AEC)](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts). (Nov. 2025) 
 * Our paper **Web Application Penetration Testing with Artificial Intelligence: A Systematic Review** is accepted by The 22nd International Symposium on Network Computing and Applications (NCA 2024). We highlight advancements and challenges in employing learning-based methods to enhance penetration testing, providing a comprehensive overview of the current state and future directions in the field. (Sept. 2024)
 * I will serve as a TPC member for the [7th Annual Workshop on Cyber Threat Intelligence and Hunting](https://cyberhunt2024.cyberhunt.no/) (co-located with IEEE BigData 2024) and the [2nd Workshop on Recent Advances in Resilient and Trustworthy Machine Learning](https://artman-workshop.gitlab.io/) (co-located with ACSAC 2024) (Sept. 2024)
