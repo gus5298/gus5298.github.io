@@ -11,7 +11,7 @@ Hi! I am a researcher currently pursuing a PhD at [Karlsruhe Institute of Techno
 
 News
 ======
-* I am currently a visiting scholar at University of Massachusetts Lowell (USA), invited by [Prof. Yiming Chen](https://ianchen88.github.io/), and supported by a scholarship from the German Ministry of Science, Research and Arts. (June 2025) 🆕
+* I was visiting scholar at University of Massachusetts Lowell (USA), invited by [Prof. Yiming Chen](https://ianchen88.github.io/), and supported by a scholarship from the German Ministry of Science, Research and Arts. (June 2025) 🆕
 * Our papers **Insights and Lessons Learned from a Realistic Smart Grid Testbed for Cybersecurity Research** and **Attacks on the Siemens S7 Protocol Using an Industrial Control System Testbed** are accepted by EnergySP 2025 (co-located with ACM e-Energy 2025), and our work **Masquerading IEC 61850 GOOSE Protocol: Cyber‐Physical Experiments and Detection** is acepted as a poster in the main conference. (May 2025) 
 * I will serve as a TPC member for the [International Workshop on Secure, Trustworthy, and Robust AI (STRAI)](https://2025.ares-conference.eu/program/strai/) (co-located with ARES 2025). (Apr. 2025) 
 * I have been selected to be part of the [USENIX Security 2025 Artifact Evaluation Committee (AEC)](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts). (Nov. 2024) 
