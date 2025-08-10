@@ -11,7 +11,7 @@ Hi! I am a researcher currently pursuing a PhD at [Karlsruhe Institute of Techno
 
 News
 ======
-* Our paper **Towards Intelligent Assurance for Autonomous AI Pentesters: Concurrent Compliance Auditing and
+* Our work **Towards Intelligent Assurance for Autonomous AI Pentesters: Concurrent Compliance Auditing and
 Self-Augmentation via Execution Trace Analysis** is accepted by ACM CCS 2025 Poster session. We propose embedding governance directly in the pentesting loop to preempt unsafe actions and support continuous self-improvement, laying the groundwork for fully autonomous yet accountable security assessments. (Aug. 2025) 🆕
 
 * Our paper **Explainable AI in Data Poisoning Threat Models Across the CIA Triad: A Smart Grid Case Study**  is accepted by IEEE TPS 2025. Our evaluation shows that in simple, single-shot poisoning the XAI-driven approach yields only marginal benefit over the random approach if the goal is indiscriminate poisoning, but it is very successful for targeted attacks. (Aug. 2025) 🆕
