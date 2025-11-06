@@ -11,7 +11,7 @@ Hi! I am a researcher currently pursuing a PhD at [Karlsruhe Institute of Techno
 
 News
 ======
-* Our work **Route Choice Prediction Through User Behavior Analysis: Towards Robustness Assessment Under External Perturbations** is accepted by IEEE Workshop on Security and Resiliency of Critical Infrastructure and Space Technologies (IEEE SR-CIST 2025), co-located with IEEE TPS. We present a preliminary study of route choice prediction and its robustness to small, realistic perturbations, with emphasis on attack surfaces that matter for transport and energy infrastructure. This is a collaboration with Mercedes-Benz Tech Innovation GmbH. (Oct. 2025) 🆕
+* Our paper **Route Choice Prediction Through User Behavior Analysis: Towards Robustness Assessment Under External Perturbations** is accepted by IEEE Workshop on Security and Resiliency of Critical Infrastructure and Space Technologies (IEEE SR-CIST 2025), co-located with IEEE TPS. We present a preliminary study of route choice prediction and its robustness to small, realistic perturbations, with emphasis on attack surfaces that matter for transport and energy infrastructure. This is a collaboration with Mercedes-Benz Tech Innovation GmbH. (Oct. 2025) 🆕
 
 * Our work **Towards Intelligent Assurance for Autonomous AI Pentesters: Concurrent Compliance Auditing and
 Self-Augmentation via Execution Trace Analysis** is accepted by ACM CCS 2025 Poster session. We propose embedding governance directly in the pentesting loop to preempt unsafe actions and support continuous self-improvement, laying the groundwork for fully autonomous yet accountable security assessments. (Aug. 2025) 
