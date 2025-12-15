@@ -22,7 +22,7 @@ impact of embedding various payload sizes on both image quality and classifier a
 Self-Augmentation via Execution Trace Analysis** is accepted by ACM CCS 2025 Poster session. We propose embedding governance directly in the pentesting loop to preempt unsafe actions and support continuous self-improvement, laying the groundwork for fully autonomous yet accountable security assessments. I will be presenting this in Taipei in October. (Aug. 2025) 
 
 * Our paper **Explainable AI in Data Poisoning Threat Models Across the CIA Triad: A Smart Grid Case Study**  is accepted by IEEE TPS 2025. Our evaluation shows that in simple, single-shot poisoning the XAI-driven approach yields only marginal benefit over the random approach if the goal is indiscriminate poisoning, but it is very successful for targeted attacks. I will be presenting this in Pittsburgh (USA) in November. (Aug. 2025)
-* 
+  
 * Our paper **A Global Analysis of Cyber Threats to the Energy Sector** will appear in the next issue of ATP Magazin (9/2025). This paper explores the intersection of geopolitical dynamics, cyber threat intelligence analysis, and advanced detection
 technologies, with a focus on the energy domain. (Aug. 2025) 
 * I was a visiting scholar at University of Massachusetts Lowell (USA), invited by [Prof. Yiming Chen](https://ianchen88.github.io/), and supported by a scholarship from the German Ministry of Science, Research and Arts. (June 2025) 
