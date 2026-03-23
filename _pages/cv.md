@@ -38,5 +38,6 @@ Development and implementation of a Monitoring Tool for distributed applications
   
 Service and leadership
 ======
-* TPC member for the [7th Annual Workshop on Cyber Threat Intelligence and Hunting](https://cyberhunt2024.cyberhunt.no/) (co-located with IEEE BigData 2024)
-* TPC member for the [2nd Workshop on Recent Advances in Resilient and Trustworthy Machine Learning](https://artman-workshop.gitlab.io/) (co-located with ACSAC 2024)
+* Technical Program Committee member for CyberHunt (co-located with IEEE BigData 2024), ARTMAN (co-located with ACSAC 2024), STRAI (co-located with ARES 2025), AISec (Top Reviewer award) and ARTMAN (co-located with ACM CCS 2025), ICCWS 2026, AAAI-AIA 2026, and Artifact Evaluation Committee for USENIX Security 2025.
+* Invited to a Dagstuhl Seminar on "Explainable AI in Energy and Critical Infrastructure Systems" (2026)
+* Elected Doctoral Candidates’ Representative 2025 - Representing around 100 researchers
