@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an AI Security researcher at [Karlsruhe Institute of Technology (KIT)](https://www.iai.kit.edu/english/2154_4832.php) in Germany, where I obtained my PhD supervised by [Prof. Veit Hagenmeyer](https://www.iai.kit.edu/english/921_1213.php). Before joining KIT, I was a research intern at the [IMDEA Software Institute](https://software.imdea.org/people/gustavo.sanchez/) in Spain. I received a Bachelor’s in Software Engineering from Sheffield Hallam University (UK), and in 2021 completed a Master’s in Cybersecurity and Artificial Intelligence at The University of Sheffield (UK). My research interest lies in the area of AI security within the context of critical infrastructure.
+Hi! I am an AI Security researcher at [Karlsruhe Institute of Technology (KIT)](https://www.iai.kit.edu/english/2154_4832.php) in Germany, where I obtained my PhD supervised by [Prof. Veit Hagenmeyer](https://www.iai.kit.edu/english/921_1213.php). Before joining KIT, I was a research intern at the [IMDEA Software Institute](https://software.imdea.org/people/gustavo.sanchez/) in Spain. I received a Bachelor’s in Software Engineering from Sheffield Hallam University (UK), and in 2021 completed a Master’s in Cybersecurity and Artificial Intelligence at The University of Sheffield (UK). 
 
 News
 ======
